@@ -1,0 +1,10 @@
+DATOS EXTRAÍDOS:
+{
+    "rut": "18.315.067-7",
+    "nombre": "GUISELLE CORAL PINA MOLLO",
+    "anio_egreso": "2010",
+    "fecha_egreso": "2010-01-01",
+    "titulo": "Técnico De Nivel Medio En Administración",
+    "numero_certificado": "00-327",
+    "fecha_entrega": "2010-06-08"
+}

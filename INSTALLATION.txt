@@ -1,0 +1,41 @@
+INSTALACIÓN DE DEPENDENCIAS OCR - WINDOWS/XAMPP
+=============================================
+
+1. INSTALAR TESSERACT OCR
+------------------------
+- Descargar desde: https://github.com/UB-Mannheim/tesseract/wiki
+- Elegir: tesseract-ocr-w64-setup-...exe (64 bits)
+- Durante instalación:
+  * Marcar "Spanish language pack"
+  * Marcar "Add to PATH"
+
+2. INSTALAR IMAGEMAGICK
+----------------------
+- Descargar desde: https://imagemagick.org/script/download.php#windows
+- Elegir: ImageMagick-...-Q16-HDRI-x64-dll.exe
+- Durante instalación:
+  * Marcar "Add application directory to PATH"
+  * Marcar "Install development headers"
+
+3. VERIFICAR INSTALACIÓN
+-----------------------
+Abrir CMD y ejecutar:
+tesseract --version
+convert --version
+
+4. REINICIAR APACHE
+------------------
+- Detener Apache desde XAMPP Control Panel
+- Iniciar Apache nuevamente
+
+5. PROBAR SISTEMA
+-----------------
+- Subir un PDF de certificado
+- Revisar consola F12 para ver resultados
+- Los datos deberían extraerse automáticamente
+
+NOTAS:
+- El sistema ahora usa Tesseract OCR profesional
+- Convierte PDF a imágenes de alta calidad (300 DPI)
+- Extrae texto específico para certificados chilenos
+- Formatea automáticamente RUT y fechas

@@ -1,0 +1,110 @@
+PRUEBA DE PATRONES:
+Array
+(
+    [numero_certificado] => Array
+        (
+            [encontrado] => 
+            [valor] => 
+            [coincidencia_completa] => 
+        )
+
+    [fecha_entrega] => Array
+        (
+            [encontrado] => 
+            [valor] => 
+            [coincidencia_completa] => 
+        )
+
+    [rut] => Array
+        (
+            [encontrado] => 
+            [valor] => 
+            [coincidencia_completa] => 
+        )
+
+    [nombre] => Array
+        (
+            [encontrado] => 
+            [valor] => 
+            [coincidencia_completa] => 
+        )
+
+    [fecha_egreso] => Array
+        (
+            [encontrado] => 
+            [valor] => 
+            [coincidencia_completa] => 
+        )
+
+    [titulo] => Array
+        (
+            [encontrado] => 
+            [valor] => 
+            [coincidencia_completa] => 
+        )
+
+    [rut_simple] => Array
+        (
+            [encontrado] => 
+            [valores] => Array
+                (
+                )
+
+            [total] => 0
+        )
+
+    [numero_simple] => Array
+        (
+            [encontrado] => 
+            [valores] => Array
+                (
+                )
+
+            [total] => 0
+        )
+
+    [fecha_simple] => Array
+        (
+            [encontrado] => 
+            [valores] => Array
+                (
+                )
+
+            [total] => 0
+        )
+
+    [anio_simple] => Array
+        (
+            [encontrado] => 
+            [valores] => Array
+                (
+                )
+
+            [total] => 0
+        )
+
+    [nombre_simple] => Array
+        (
+            [encontrado] => 1
+            [valores] => Array
+                (
+                    [0] => BROTHER SCANNER SYSTEM
+                    [1] => SERIES BROTHER SCANNER SYSTEM IMAGE CONVERSION
+                )
+
+            [total] => 2
+        )
+
+    [tecnico_simple] => Array
+        (
+            [encontrado] => 
+            [valores] => Array
+                (
+                )
+
+            [total] => 0
+        )
+
+)
+
+

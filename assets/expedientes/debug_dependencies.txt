@@ -1,0 +1,12 @@
+DEPENDENCIAS:
+Array
+(
+    [pdf_to_text] => 1
+    [pdf_parser] => 1
+    [tesseract] => 1
+    [imagemagick] => 1
+    [php_fileinfo] => 1
+    [php_gd] => 
+)
+
+
